@@ -1,0 +1,22 @@
+C:\Users\KHALID\Downloads>javac IT24013.java
+
+C:\Users\KHALID\Downloads>java IT24013 Hero Green Honda Red Yamaha Blue Apache Yellow Runner Black
+Vehicle Brand: Hero
+Vehicle Color: Green
+Vehicle is starting...
+
+Vehicle Brand: Honda
+Vehicle Color: Red
+Vehicle is starting...
+
+Vehicle Brand: Yamaha
+Vehicle Color: Blue
+Vehicle is starting...
+
+Vehicle Brand: Apache
+Vehicle Color: Yellow
+Vehicle is starting...
+
+Vehicle Brand: Runner
+Vehicle Color: Black
+Vehicle is starting...
